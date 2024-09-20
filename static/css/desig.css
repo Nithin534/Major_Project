@@ -1,0 +1,34 @@
+body {
+    background-color: skyblue;
+}
+
+.header-content, .footer-content {
+    text-align: center;
+    padding: 10px;
+    background-color: #f3f3f3;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.upload-btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.output-text {
+    color: #D8000C;
+    background-color: #FFBABA;
+}
